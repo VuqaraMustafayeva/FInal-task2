@@ -11,7 +11,7 @@ Bu layihə **Fullstack veb tətbiq** olaraq hazırlanmışdır. Layihə **React 
 
 ##  Texnologiyalar
 
-### 🔹 Backend:
+###  Backend:
 - Node.js  
 - Express.js  
 - MongoDB & Mongoose  
